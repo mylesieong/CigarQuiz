@@ -8,4 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="QuestionHeader">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/question_to_question</item>
+        <item name="android:layout_marginBottom">@dimen/question_to_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/question_header_size</item>
+    </style>
+
+    <style name="QuestionContent">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/question_content_size</item>
+    </style>
+
+
 </resources>

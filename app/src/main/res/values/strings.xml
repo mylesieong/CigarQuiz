@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Cigar Quiz</string>
+
+    <!-- Question 1 related strings-->
+    <string name="q1_header_text">Which of below cigars are in Robusto size?</string>
+    <string name="q1_content1_text">Partages Serie D No.4</string>
+    <string name="q1_content2_text">Hoyo de Monterry Epicure No.2</string>
+    <string name="q1_content3_text">Vegas Robaina Famosos</string>
+    <string name="q1_content4_text">Juan Lopez Selection No.2</string>
+
+    <!-- Question 2 related strings-->
+    <string name="q2_header_text">Which below cigar brand is not made in Cuba anymore?</string>
+    <string name="q2_content1_text">Cohiba</string>
+    <string name="q2_content2_text">San Cristobal</string>
+    <string name="q2_content3_text">Cuaba</string>
+    <string name="q2_content4_text">Dunhill</string>
+
+    <!-- Question 3 related string-->
+    <string name="q3_header_text">Choose the correct name of below cigar brand</string>
+    <string name="q3_content1_text">Partagas</string>
+    <string name="q3_content2_text">Punch</string>
+    <string name="q3_content3_text">Por Larranaga</string>
+    <string name="q3_content4_text">Trinidad</string>
+
+    <!-- Question 4 related string-->
+    <string name="q4_header_text">What is the name of the Cuban cigar brand that named after a famous novel written by Alexandre Dumas which talked after the revenge of a young man?</string>
+    <string name="q4_content_hint">Enter here</string>
+    <string name="submit_button_text">Submit Quiz</string>
+
 </resources>
