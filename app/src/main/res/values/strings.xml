@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">Cigar Quiz</string>
 
     <!-- Question 1 related strings-->
@@ -25,6 +25,24 @@
     <!-- Question 4 related string-->
     <string name="q4_header_text">What is the name of the Cuban cigar brand that named after a famous novel written by Alexandre Dumas which talked after the revenge of a young man?</string>
     <string name="q4_content_hint">Enter here</string>
+
+    <!-- Button-->
     <string name="submit_button_text">Submit Quiz</string>
+
+    <!-- Summary dialog related string-->
+    <string name="q1_summary_text">Question #1 result:
+        <xliff:g example="true" id="q1_result">%b</xliff:g>
+    </string>
+    <string name="q2_summary_text">Question #2 result:
+        <xliff:g example="true" id="q2_result">%b</xliff:g>
+    </string>
+    <string name="q3_summary_text">Question #3 result:
+        <xliff:g example="true" id="q3_result">%b</xliff:g>
+    </string>
+    <string name="q4_summary_text">Question #4 result:
+        <xliff:g example="true" id="q4_result">%b</xliff:g>
+    </string>
+    <string name="summary_title">Cigar Quiz Result</string>
+    <string name="ok_text">OK</string>
 
 </resources>
